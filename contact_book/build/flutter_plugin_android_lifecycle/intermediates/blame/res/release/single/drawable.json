@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\marce\\OneDrive\\Documentos\\Curso_Flutter\\Projects\\contact_book\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\marce\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Users\\marce\\OneDrive\\Documentos\\Curso_Flutter\\Projects\\contact_book\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\marce\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\marce\\OneDrive\\Documentos\\Curso_Flutter\\Projects\\contact_book\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\marce\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\marce\\OneDrive\\Documentos\\Curso_Flutter\\Projects\\contact_book\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\marce\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    }
+]

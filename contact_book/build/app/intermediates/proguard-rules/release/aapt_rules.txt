@@ -1,0 +1,10 @@
+# Referenced at D:\Users\marce\OneDrive\Documentos\Curso_Flutter\Projects\contact_book\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Users\marce\OneDrive\Documentos\Curso_Flutter\Projects\contact_book\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:20
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at D:\Users\marce\OneDrive\Documentos\Curso_Flutter\Projects\contact_book\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:67
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at D:\Users\marce\OneDrive\Documentos\Curso_Flutter\Projects\contact_book\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:77
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at D:\Users\marce\OneDrive\Documentos\Curso_Flutter\Projects\contact_book\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class marceloams.contact_book.MainActivity { <init>(); }
