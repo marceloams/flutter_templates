@@ -24,11 +24,11 @@ class _HomePageState extends State<HomePage> {
     //if no search input shows trending
     if (_search == null || _search.isEmpty) {
       response = await http.get(
-          "https://api.giphy.com/v1/gifs/trending?api_key=PfM80LDXfW3Aw3kgVRKRitYlCcg0aK0w&limit=20&rating=g");
+          "api key here");
     } else {
       //search if has input
       response = await http.get(
-          "https://api.giphy.com/v1/gifs/search?api_key=PfM80LDXfW3Aw3kgVRKRitYlCcg0aK0w&q=$_search&limit=19&offset=$_offset&rating=g&lang=en");
+          "api key here q=$_search&limit=19&offset=$_offset&rating=g&lang=en");
     }
 
     //return response.body decoded
