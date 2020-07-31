@@ -5,7 +5,7 @@ import "package:async/async.dart";
 import "dart:convert";
 
 //api link
-const request = "https://api.hgbrasil.com/finance?format=json&key=d9d3af90";
+const request = "api key";
 
 void main() async {
   runApp(MaterialApp(
