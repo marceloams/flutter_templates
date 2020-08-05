@@ -32,7 +32,7 @@ class UserModel extends Model{
   }
 
   //sign up method
-  void singUp({@required Map<String, dynamic> userData, @required String pass, @required VoidCallback onSuccess, @required VoidCallback onFail()}) async {//put all parameters as optional to makes possible
+  void singUp({@required Map<String, dynamic> userData, @required String pass, @required VoidCallback onSuccess, @required VoidCallback onFail}) async {//put all parameters as optional to makes possible
     isLoading = true;                                                                                                                                   // to put in any order and adding @required to make
     notifyListeners(); //update screen                                                                                                                  //  all them obligatory again
 
